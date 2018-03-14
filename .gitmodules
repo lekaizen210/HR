@@ -2,3 +2,8 @@
 	path = lekaizen210/addons_tools
 	url = git@github.com:lekaizen210/addons_tools.git
 	branch = master
+
+[submodule "lekaizen210/addons_hr"]
+	path = lekaizen210/addons_hr
+	url = git@github.com:lekaizen210/addons_hr.git
+	branch = master
