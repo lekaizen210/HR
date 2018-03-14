@@ -1,0 +1,4 @@
+[submodule "lekaizen210/addons_tools"]
+	path = lekaizen210/addons_tools
+	url = git@github.com:lekaizen210/addons_tools.git
+	branch = master
